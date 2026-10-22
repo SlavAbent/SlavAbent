@@ -28,7 +28,7 @@
 - PostgreSQL
 - Backend for Frontend (BFF)
 
-## AI: 
+## AI
 
 - Claude Code — разработка, рефакторинг и анализ кодовой базы.
 - OpenAI Codex — генерация, анализ и оптимизация кода.
