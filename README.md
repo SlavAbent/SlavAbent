@@ -17,21 +17,14 @@
 - Redux Toolkit, Redux Thunk, Redux Saga
 - Jest, Playwright, React Testing Library
 - REST API, Postman, Swagger
-- Service Workers, Web App Manifest
 - Docker, Docker Compose
 - Git, GitHub, GitLab, GitFlow
-
-## Дополнительные технологии и инструменты
 
 - React Native
 - Node.js, Express 5
 - Prisma
 - PostgreSQL
 - Backend for Frontend (BFF)
-
-## AI-инструменты в разработке
-
-Активно использую инструменты искусственного интеллекта для повышения эффективности разработки, анализа и рефакторинга кода, поиска ошибок и проработки архитектурных решений.
 
 - Claude Code — разработка, рефакторинг и анализ кодовой базы.
 - OpenAI Codex — генерация, анализ и оптимизация кода.
