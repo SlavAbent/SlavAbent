@@ -20,11 +20,15 @@
 - Docker, Docker Compose
 - Git, GitHub, GitLab, GitFlow
 
+## Дополнительные технологии
+
 - React Native
 - Node.js, Express 5
 - Prisma
 - PostgreSQL
 - Backend for Frontend (BFF)
+
+## AI: 
 
 - Claude Code — разработка, рефакторинг и анализ кодовой базы.
 - OpenAI Codex — генерация, анализ и оптимизация кода.
