@@ -14,7 +14,7 @@
 - JavaScript, TypeScript
 - Webpack, Vite
 - React, Next.js
-- Redux Toolkit, Redux Thunk, Redux Saga
+- Redux Toolkit, Redux Thunk, Redux Saga, Zustand
 - Jest, Playwright, React Testing Library
 - REST API, Postman, Swagger
 - Docker, Docker Compose
