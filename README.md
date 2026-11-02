@@ -47,5 +47,5 @@
 ##
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavAbent&layout=compact&langs_count=6&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SlavAbent&layout=compact&langs_count=6&hide_border=true)
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,figma,sass,postman,js,ts,webpack,vite,react,nextjs,redux,jest,docker,git,github,gitlab,nodejs,express,prisma,postgres&perline=7&theme=dark)
