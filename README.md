@@ -26,6 +26,7 @@
 - Prisma, PostgreSQL,
 - Backend for Frontend (BFF)
 - NextAuth.js (Auth.js)
+- MapInfo, D3.js, Leaflet, AgGrid
 
 ## ИНСТРУМЕНТЫ
 
