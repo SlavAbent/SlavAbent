@@ -8,32 +8,28 @@
 
 ## Мой профессиональный стек
 
-- HTML, CSS, BEM
-- Figma
-- Sass, SCSS, PostCSS
-- JavaScript, TypeScript
+- HTML5, CSS3, Sass/SCSS, PostCSS, Tailwind CSS, BEM
+- JavaScript (ES6+), TypeScript
+- React, Next.js (App Router, SSR, SSG, ISR)
+- Redux Toolkit, Redux Thunk, Redux Saga, Zustand, TanStack Query
 - Webpack, Vite
-- React, Next.js
-- Redux Toolkit, Redux Thunk, Redux Saga, Zustand
+- Storybook, shadcn/ui, Radix UI
 - Jest, Playwright, React Testing Library
-- REST API, Postman, Swagger
-- Docker, Docker Compose
+- REST API, WebSocket, Socket.IO, Postman, Swagger
 - Git, GitHub, GitLab, GitFlow
+- Docker, Docker Compose
 
-## Дополнительные технологии
+## ДОПОЛНИТЕЛЬНЫЕ ТЕХНОЛОГИИ
 
 - React Native
 - Node.js, Express 5
-- Prisma
-- PostgreSQL
+- Prisma, PostgreSQL,
 - Backend for Frontend (BFF)
+- NextAuth.js (Auth.js)
 
-## AI
+## ИНСТРУМЕНТЫ
 
-- Claude Code — разработка, рефакторинг и анализ кодовой базы.
-- OpenAI Codex — генерация, анализ и оптимизация кода.
-- Gemini — исследование технических решений и анализ задач.
-- Cursor — AI-assisted разработка в редакторе кода.
+Figma, ESLint, Prettier, Codex, Claude Code
 
 ## Основные направления работы
 
